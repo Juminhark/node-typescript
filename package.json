@@ -24,7 +24,7 @@
     "@types/mongoose": "^5.5.41",
     "@types/node": "^13.1.8",
     "copyfiles": "^2.2.0",
-    "handlebars": "^4.5.0",
+    "handlebars": "^4.5.3",
     "nodemon": "^2.0.2",
     "ts-node": "^8.6.2",
     "typescript": "^3.7.4"
