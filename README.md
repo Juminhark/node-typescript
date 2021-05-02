@@ -1,4 +1,4 @@
-# [`node-typescript`](https://www.youtube.com/watch?v=UipIQ81kabs)
+# [`nodejs-typescript`](https://www.youtube.com/watch?v=UipIQ81kabs)
 
 Learn how to use Typescript in your next Server applications using Nodejs. configuring typescript, connecting to a NoSQL Database such as Mongodb, using other Javascript code on the server.
 
